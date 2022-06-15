@@ -52,6 +52,5 @@ My portfolio site is running on this application. Check it out at:
 https://www.wesley.io.ke/portfolio
 
 Check it out
-
-<p align="center"><a href="https://www.wesley.io.ke/portfolio" target="_blank"><img src="![Screenshot](screenshot.png)
-" width="400"></a></p>
+![Screenshot](screenshot.png)
+<p align="center"><a href="https://www.wesley.io.ke/portfolio" target="_blank">Check it out at:</a></p>
